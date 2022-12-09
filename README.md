@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Projeto-Wireframe é um projeto onde é aplicado boas praticas na estruturação de uma página HTML.
+Projeto-Wireframe é uma aplicação onde é utilizado boas praticas na estruturação de uma página HTML
 
 ## 🛠 Tecnologias
 
