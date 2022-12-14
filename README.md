@@ -18,6 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Demostração da aplicação web
 
-https://lucasfsilva94.github.io/projeto-wireframe/
+https://lucasfsilva94.github.io/wireframe/
 
 ---
