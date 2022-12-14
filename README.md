@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="projeto-wireframe" src="https://user-images.githubusercontent.com/22107794/207313443-7f39e7db-a65a-44a1-b2c8-c10334d96027.png" width="100%">
+  <img alt="projeto-wireframe" src="https://user-images.githubusercontent.com/22107794/207472168-922c0817-423d-4b8a-87ac-d76537ad95c8.png" width="100%">
 </p>
 
 ## 💻 Projeto
