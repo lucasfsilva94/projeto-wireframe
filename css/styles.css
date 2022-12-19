@@ -254,6 +254,7 @@ footer main nav .item h6 {
   line-height: 125%;
   color: var(--white);
   margin-bottom: 2.4rem;
+  letter-spacing: -1px;
 }
 
 footer main nav .item ul li {
@@ -295,7 +296,12 @@ footer .copy {
 }
 
 footer .copy p {
-  color: var(--white);
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 150%;
+  color: var(--white-color-text);
 }
 
 footer .copy .group {
